@@ -35,6 +35,10 @@ It takes the sample from each channel per revolution and rotates at the rate of 
 
 <img width="929" height="1280" alt="image" src="https://github.com/user-attachments/assets/e71871f6-d614-4516-b447-0f0709909613" />
 
+###  Output
+<img width="1915" height="901" alt="image" src="https://github.com/user-attachments/assets/537a3ad4-5561-4c7e-8fb8-05706652c934" />
+<img width="1648" height="804" alt="image" src="https://github.com/user-attachments/assets/7705e552-66b2-4dfd-a003-03fd4276baf7" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/84d952b3-a838-4ddf-a8aa-dbaa99b24544" />
 
 ### Result
 The program successfully simulates FDM and demultiplexing for multiple frequency signals with filtering to recover original signals accurately in Scilab.
